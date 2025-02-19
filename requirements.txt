@@ -1,0 +1,5 @@
+xarray=2024.9.0
+matplotlib
+numpy
+pandas
+statsmodels
